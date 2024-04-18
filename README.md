@@ -6,9 +6,9 @@ This is what I found and it works for me
 This is for conda you would need yo install conda make a virtual environment in conda then run the code below
 you can open the conda virtual environment in vscode
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
-# Anything above 2.10 is not supported on the GPU on Windows Native
+Anything above 2.10 is not supported on the GPU on Windows Native
 python -m pip install "tensorflow<2.11"
-# Verify the installation:
+Verify the installation:
 python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 ####################
 
