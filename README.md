@@ -1,6 +1,7 @@
 # nvidia_gpu_setup_on_tensorflow_and_torch
 
-This is what I found and it works for me
+This is what I found and it works for me this is for torch but the instructions inside ### might mork in torch as well for the installation of cuda rather than in the video wherein it installs an exe file and change zip file 
+
 https://www.youtube.com/watch?v=r7Am-ZGMef8&list=PLy3OP3BIolktfVEhcQ4lysv1diswHmM21&index=2
 
 
