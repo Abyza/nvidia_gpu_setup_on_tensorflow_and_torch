@@ -1,6 +1,8 @@
 # nvidia_gpu_setup_on_tensorflow_and_torch
 
 This is what I found and it works for me
+https://www.youtube.com/watch?v=r7Am-ZGMef8&list=PLy3OP3BIolktfVEhcQ4lysv1diswHmM21&index=2
+
 
 ################
 
