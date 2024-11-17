@@ -31,3 +31,8 @@ Tips
 6. in A.I. model training if it is an advance model it will not work on CPU
 7. Some models might train with CPU only but decrease in training time is decreased very exponentially if GPU is used
 8. Even if you use your GPU it may still be incapable of training more advance models.
+
+
+# If you have low memory on the GPU
+
+https://stackoverflow.com/questions/70076689/internalerror-failed-copying-input-tensor-from-devicecpu0-to-devicegpu0-in
